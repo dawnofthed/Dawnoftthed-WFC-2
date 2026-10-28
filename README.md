@@ -2,16 +2,16 @@
   <img src="docs/logo.svg" alt="dwc-server-advanced logo" width="128" height="128">
 </p>
 
-<h1 align="center">dwc-server-advanced</h1>
+<h1 align="center">DAWNOFTHED WFC ENHANCED VERSION</h1>
 
 <p align="center">
-  Nintendo Wi-Fi Connection replacement server for DS and Wii games<br>
+  State of the Art Nintendo Wi-Fi Connection replacement server for DS and Wii games<br>
   <a href="https://github.com/WiiListZ/dwc-server-advanced/releases/latest">Releases</a> ·
   <a href="#installation">Installation</a> ·
   <a href="https://github.com/WiiListZ/dwc-server-advanced-patcher">Client patcher</a>
 </p>
 
-**dwc-server-advanced** is an open source replacement server for the discontinued Nintendo Wi-Fi Connection (DWC), for Nintendo DS and Wii games. On top of the GameSpy/NAS server stack it adds:
+**Dawnofthed WFC** is an open source replacement server for the discontinued Nintendo Wi-Fi Connection (DWC), for Nintendo DS and Wii games. On top of the GameSpy/NAS server stack it adds:
 
 - a web setup wizard;
 - a moderation panel with fine-grained moderator rights;
@@ -25,8 +25,8 @@ The project has two parts:
 
 | Repository | Runs on | Role |
 |---|---|---|
-| **dwc-server-advanced** (this one) | Your server | Online services, website and moderation panel. It serves the patch payloads to clients and signs them. |
-| **[dwc-server-advanced-patcher](https://github.com/WiiListZ/dwc-server-advanced-patcher)** | Wii / Dolphin | Patches games so they connect to your server, and fixes their security bugs. Fork of [WiiLink24/wfc-patcher-wii](https://github.com/WiiLink24/wfc-patcher-wii). |
+| **Dawnofthed WFC** (this one) | Your server | Online services, website and moderation panel. It serves the patch payloads to clients and signs them. |
+| **[Dawnofthed WFC-patcher](https://github.com/WiiListZ/Dawnofthed WFC-patcher)** | Wii / Dolphin | Patches games so they connect to your server, and fixes their security bugs. Fork of [WiiLink24/wfc-patcher-wii](https://github.com/WiiLink24/wfc-patcher-wii). |
 
 Build the patcher once with your domain and copy its output into the server's `payload/` directory; see [Client patcher](#client-patcher).
 
