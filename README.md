@@ -2,7 +2,7 @@
   <img src="docs/logo.svg" alt="dwc-server-advanced logo" width="128" height="128">
 </p>
 
-<h1 align="center">DAWNOFTHED WFC ENHANCED VERSION</h1>
+<h1 align="center">DAWNOFTHED WFC 2</h1>
 
 <p align="center">
   State of the Art Nintendo Wi-Fi Connection replacement server for DS and Wii games<br>
